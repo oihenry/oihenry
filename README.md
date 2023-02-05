@@ -6,8 +6,6 @@
 
 # Welcome to my Github!!!
 
-![Snake animation](https://github.com/oihenry/oihenry/blob/output/github-contribution-grid-snake.svg)
-
 ## Primary Tecnologies
 
 <div> 
